@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.c7a16af8.chunk.css",
-    "main.js": "./static/js/main.6af0cbe8.chunk.js",
-    "main.js.map": "./static/js/main.6af0cbe8.chunk.js.map",
+    "main.css": "./static/css/main.20721f1d.chunk.css",
+    "main.js": "./static/js/main.d3bbd170.chunk.js",
+    "main.js.map": "./static/js/main.d3bbd170.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
     "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
-    "static/js/2.abf0922e.chunk.js": "./static/js/2.abf0922e.chunk.js",
-    "static/js/2.abf0922e.chunk.js.map": "./static/js/2.abf0922e.chunk.js.map",
+    "static/js/2.1e984e2c.chunk.js": "./static/js/2.1e984e2c.chunk.js",
+    "static/js/2.1e984e2c.chunk.js.map": "./static/js/2.1e984e2c.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.894f7877802217bfb166a56f9ca4b7aa.js": "./precache-manifest.894f7877802217bfb166a56f9ca4b7aa.js",
+    "precache-manifest.6453c603e5504aae69da5bd8c2d8fa75.js": "./precache-manifest.6453c603e5504aae69da5bd8c2d8fa75.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.c7a16af8.chunk.css.map": "./static/css/main.c7a16af8.chunk.css.map",
-    "static/js/2.abf0922e.chunk.js.LICENSE.txt": "./static/js/2.abf0922e.chunk.js.LICENSE.txt",
+    "static/css/main.20721f1d.chunk.css.map": "./static/css/main.20721f1d.chunk.css.map",
+    "static/js/2.1e984e2c.chunk.js.LICENSE.txt": "./static/js/2.1e984e2c.chunk.js.LICENSE.txt",
     "static/media/CartPage.scss": "./static/media/Mont-SemiBold.d41a520b.otf",
     "static/media/ShopByCategory.scss": "./static/media/image7.35b0c088.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7c3e9311.js",
-    "static/js/2.abf0922e.chunk.js",
-    "static/css/main.c7a16af8.chunk.css",
-    "static/js/main.6af0cbe8.chunk.js"
+    "static/js/2.1e984e2c.chunk.js",
+    "static/css/main.20721f1d.chunk.css",
+    "static/js/main.d3bbd170.chunk.js"
   ]
 }
